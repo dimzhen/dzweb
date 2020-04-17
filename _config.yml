@@ -4,7 +4,7 @@ social_link: ''
 social_username: ''
 github_repo: ''
 github_username: ''
-theme_color: cyan
+theme_color: blue
 remote_theme: internet-de-france/swiss
 baseurl: /dzweb
 defaults:
